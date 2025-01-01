@@ -16,7 +16,7 @@
 
 
 ----
-# Key libraries
+# requirements
 - pyimagej
 - opencv
 - matplotlib
